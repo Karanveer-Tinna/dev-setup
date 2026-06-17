@@ -9,3 +9,5 @@ sympy
 openpyxl
 ipython
 ipykernel
+tqdm
+pyyaml
